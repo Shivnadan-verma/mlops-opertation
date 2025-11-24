@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/18694c7de1234d6b8f329d8f505f2991/artifacts
+end_time: 1763407238092
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: 18694c7de1234d6b8f329d8f505f2991
+run_name: honorable-rook-155
+run_uuid: 18694c7de1234d6b8f329d8f505f2991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407232327
+status: 4
+tags: []
+user_id: SHIV

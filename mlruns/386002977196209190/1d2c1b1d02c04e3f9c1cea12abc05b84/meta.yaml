@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/1d2c1b1d02c04e3f9c1cea12abc05b84/artifacts
+end_time: 1763406759749
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: 1d2c1b1d02c04e3f9c1cea12abc05b84
+run_name: abrasive-bat-732
+run_uuid: 1d2c1b1d02c04e3f9c1cea12abc05b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763406757214
+status: 4
+tags: []
+user_id: SHIV

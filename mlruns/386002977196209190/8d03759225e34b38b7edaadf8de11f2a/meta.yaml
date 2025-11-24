@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/8d03759225e34b38b7edaadf8de11f2a/artifacts
+end_time: 1763407291884
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: 8d03759225e34b38b7edaadf8de11f2a
+run_name: abrasive-grouse-687
+run_uuid: 8d03759225e34b38b7edaadf8de11f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407291820
+status: 3
+tags: []
+user_id: SHIV

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/f5cb66bd5a5846448cc99edd453cc7ac/artifacts
+end_time: 1763406916603
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: f5cb66bd5a5846448cc99edd453cc7ac
+run_name: luminous-flea-574
+run_uuid: f5cb66bd5a5846448cc99edd453cc7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763406874870
+status: 4
+tags: []
+user_id: SHIV

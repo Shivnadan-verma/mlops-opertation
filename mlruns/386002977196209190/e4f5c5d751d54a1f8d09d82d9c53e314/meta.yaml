@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/e4f5c5d751d54a1f8d09d82d9c53e314/artifacts
+end_time: 1763407454973
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: e4f5c5d751d54a1f8d09d82d9c53e314
+run_name: powerful-bass-904
+run_uuid: e4f5c5d751d54a1f8d09d82d9c53e314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407453099
+status: 4
+tags: []
+user_id: SHIV

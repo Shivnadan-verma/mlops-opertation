@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-learning/mlruns/654522445892140401/5a6d5938ab9341939c43e114c89a0f7a/artifacts
+end_time: 1763404847209
+entry_point_name: ''
+experiment_id: '654522445892140401'
+lifecycle_stage: active
+run_id: 5a6d5938ab9341939c43e114c89a0f7a
+run_name: rumbling-colt-424
+run_uuid: 5a6d5938ab9341939c43e114c89a0f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763404847146
+status: 3
+tags: []
+user_id: SHIV

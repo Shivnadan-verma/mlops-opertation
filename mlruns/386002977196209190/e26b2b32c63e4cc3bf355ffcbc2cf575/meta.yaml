@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/e26b2b32c63e4cc3bf355ffcbc2cf575/artifacts
+end_time: 1763407269337
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: e26b2b32c63e4cc3bf355ffcbc2cf575
+run_name: intrigued-loon-133
+run_uuid: e26b2b32c63e4cc3bf355ffcbc2cf575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407265213
+status: 4
+tags: []
+user_id: SHIV

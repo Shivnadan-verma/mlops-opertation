@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/ffbddd5e08314884b15034cbf28efb03/artifacts
+end_time: 1763407139361
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: ffbddd5e08314884b15034cbf28efb03
+run_name: delightful-hen-404
+run_uuid: ffbddd5e08314884b15034cbf28efb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407132182
+status: 4
+tags: []
+user_id: SHIV

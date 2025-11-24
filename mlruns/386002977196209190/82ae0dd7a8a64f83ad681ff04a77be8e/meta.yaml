@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/82ae0dd7a8a64f83ad681ff04a77be8e/artifacts
+end_time: 1763407446743
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: 82ae0dd7a8a64f83ad681ff04a77be8e
+run_name: gaudy-ram-229
+run_uuid: 82ae0dd7a8a64f83ad681ff04a77be8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407440434
+status: 4
+tags: []
+user_id: SHIV

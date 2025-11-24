@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-learning/mlruns/654522445892140401/d37ead5e94bc46a484ed9ee079f5e399/artifacts
+end_time: 1763405814951
+entry_point_name: ''
+experiment_id: '654522445892140401'
+lifecycle_stage: active
+run_id: d37ead5e94bc46a484ed9ee079f5e399
+run_name: bouncy-rat-558
+run_uuid: d37ead5e94bc46a484ed9ee079f5e399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405783423
+status: 4
+tags: []
+user_id: SHIV

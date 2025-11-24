@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-learning/mlruns/654522445892140401/8dfc2bae07724b899ec436a4b8d68546/artifacts
+end_time: 1763404508346
+entry_point_name: ''
+experiment_id: '654522445892140401'
+lifecycle_stage: active
+run_id: 8dfc2bae07724b899ec436a4b8d68546
+run_name: resilient-mare-110
+run_uuid: 8dfc2bae07724b899ec436a4b8d68546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763404508273
+status: 3
+tags: []
+user_id: SHIV

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-learning/mlruns/654522445892140401/6cd3c47d182d4151adcfeeb287a49cca/artifacts
+end_time: 1763405642549
+entry_point_name: ''
+experiment_id: '654522445892140401'
+lifecycle_stage: active
+run_id: 6cd3c47d182d4151adcfeeb287a49cca
+run_name: capable-moth-427
+run_uuid: 6cd3c47d182d4151adcfeeb287a49cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405630981
+status: 3
+tags: []
+user_id: SHIV

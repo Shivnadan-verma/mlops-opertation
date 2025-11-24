@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/7fb7dc23b4a943798361b4fc3d94b82b/artifacts
+end_time: 1763406308083
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: 7fb7dc23b4a943798361b4fc3d94b82b
+run_name: rebellious-hen-210
+run_uuid: 7fb7dc23b4a943798361b4fc3d94b82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763406288394
+status: 4
+tags: []
+user_id: SHIV

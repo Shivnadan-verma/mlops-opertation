@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/386002977196209190/e046adfca7aa416ab37b23714ec57aa2/artifacts
+end_time: 1763406784886
+entry_point_name: ''
+experiment_id: '386002977196209190'
+lifecycle_stage: active
+run_id: e046adfca7aa416ab37b23714ec57aa2
+run_name: stately-deer-574
+run_uuid: e046adfca7aa416ab37b23714ec57aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763406777447
+status: 4
+tags: []
+user_id: SHIV
