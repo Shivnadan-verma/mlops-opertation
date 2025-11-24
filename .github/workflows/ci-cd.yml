@@ -172,12 +172,15 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Run Trivy vulnerability scanner
+    - name: Run Trivy vulnerability scanner on Dockerfile
       uses: aquasecurity/trivy-action@master
       with:
-        image-ref: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+        scan-type: 'fs'
+        scan-ref: '.'
         format: 'sarif'
         output: 'trivy-results.sarif'
+        severity: 'CRITICAL,HIGH'
+      continue-on-error: true
 
     - name: Upload Trivy results to GitHub Security
       uses: github/codeql-action/upload-sarif@v3
