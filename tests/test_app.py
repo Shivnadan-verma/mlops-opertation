@@ -24,6 +24,19 @@ if not MODEL_PATH.exists():
 @pytest.fixture
 def client():
     """Create a test client for the FastAPI app"""
+    # Ensure model exists before importing app
+    MODEL_PATH = Path("artifacts/model.pkl")
+    if not MODEL_PATH.exists():
+        os.makedirs("artifacts", exist_ok=True)
+        from sklearn.linear_model import LogisticRegression
+        import numpy as np
+        model = LogisticRegression()
+        # Train on dummy data
+        X = np.array([[5.1, 3.5, 1.4, 0.2], [4.9, 3.0, 1.4, 0.2], [6.2, 3.4, 5.4, 2.3]])
+        y = np.array([0, 0, 2])
+        model.fit(X, y)
+        joblib.dump(model, MODEL_PATH)
+    
     from src.app import app
     return TestClient(app)
 
@@ -69,4 +82,5 @@ def test_predict_negative_values(client):
     response = client.post("/predict", json=test_data)
     # Should still return a prediction (model will handle it)
     assert response.status_code == 200
+    assert "prediction" in response.json()
 
